@@ -4,7 +4,7 @@ git# React I :tada:
 ---
 ### :dart: Objetivos 
 
-Criar um projeto React, criar e exportar internamente um arquivo que simula um JSON, criar componentes que importem o arquivo JSON para satisfazer as requisições do projeto, além de redenrizar tudo perfeitamente na tela.
+Criar um projeto React, criar e exportar internamente um arquivo que simula um JSON, criar componentes que importem o arquivo JSON para satisfazer as requisições do projeto, além de renderizar tudo perfeitamente na tela.
 
 ---
 ### :books: Principais aprendizados
