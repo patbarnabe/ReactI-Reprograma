@@ -1,0 +1,12 @@
+.titulo {
+    text-align: center;
+    background-color: #FAF3E9;
+    width: fit-content;
+    border-radius: 10px;
+    font-size: 50px;
+}
+
+.div_titulo{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+    justify-content: space-between
+}
+
+.img{
+    height: 300px;
+    border-radius: 20px;
+}
+
+.cards{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start
+}
+
+.infos{
+    border: 2px solid #A19D97;
+    border-radius: 20px;
+    margin-bottom: 5%;
+    text-align: center;
+    background-color: #FAF3E9;
+}
