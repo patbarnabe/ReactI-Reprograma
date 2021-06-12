@@ -4,7 +4,7 @@
 ---
 ### :dart: Objetivos 
 
-Criar um projeto react, criar e exportar internamente um arquivo que simula um JSON, criar componentes que importem o arquivo JSON para satisfazer as requisições do projeto, além de redenrizar tudo perfeitamente na tela.
+Criar um projeto React, criar e exportar internamente um arquivo que simula um JSON, criar componentes que importem o arquivo JSON para satisfazer as requisições do projeto, além de redenrizar tudo perfeitamente na tela.
 
 ---
 ### :books: Principais aprendizados
@@ -16,6 +16,7 @@ Criar um projeto react, criar e exportar internamente um arquivo que simula um J
 * Props, children
 * Modularização
 * Prática propriamente dita do React
+* React é ótimo, muito mais fácil de programar usando a sua lógica estrutural e dinâmica eficiente
 
 ---
 ### :wrench: Tecnologias 
