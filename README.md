@@ -29,6 +29,6 @@ Criar um projeto react, criar e exportar internamente um arquivo que simula um J
 ---
 ### :chart: Resultado
 
-![img](../src/assets/img/tela_final.png)
+![img](./hello-react/src/assets/img/tela_final.png)
 
 
