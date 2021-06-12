@@ -19,7 +19,7 @@ Criar um projeto React, criar e exportar internamente um arquivo que simula um J
 * React é ótimo, muito mais fácil de programar usando a sua lógica estrutural e dinâmica eficiente
 
 ---
-### :wrench: Tecnologias 
+### :robot: Tecnologias 
 
 - HTML 5
 - CSS3
