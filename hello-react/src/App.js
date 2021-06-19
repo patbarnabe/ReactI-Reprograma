@@ -4,7 +4,7 @@ import './styles/app.css'
 
 function App() {
   return (
-    <div class="body">
+    <div className="body">
       <Titulo>Top 5 Dogs Perfeitos ❤🐶</Titulo>
       <Card />
     </div>
