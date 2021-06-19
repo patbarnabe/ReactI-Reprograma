@@ -1,4 +1,4 @@
-git# React I :tada:
+# React I :tada:
 ## Projeto desenvolvido na 14ª Semana de aulas do curso de Desenvolvimento Web Front-End da 10ª Turma da Reprograma :purple_heart:
 
 ---
